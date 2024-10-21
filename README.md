@@ -24,6 +24,12 @@
 
 ---
 
+### 🚀 My Projects:
+**[Flight Status Notification](https://github.com/Thakur-Prateek/Flight-Status-Notification-System)**: A project showcasing a Full Stack Application, resposnsive for customizing Notification status of flight.
+
+---
+
+
 ### 🌟 Featured Skills:
 - **Product Strategy**: Developed a product vision that generated $500k in revenue.
 - **Leadership**: Spearheaded a cross-functional team that boosted customer satisfaction by 40%.
