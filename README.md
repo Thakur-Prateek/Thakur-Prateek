@@ -39,7 +39,16 @@
 
 <div align="center">
 
-[![Tech stack: Next.js, React, Python, FastAPI, Supabase, Postgres, Git, Vercel, Figma, VS Code](https://skillicons.dev/icons?i=nextjs,react,python,fastapi,supabase,postgres,git,vercel,figma,vscode&theme=dark)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://github.com/vercel/next.js)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/facebook/react)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://github.com/python/cpython)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://github.com/fastapi/fastapi)
+[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://github.com/supabase/supabase)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://github.com/postgres/postgres)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://github.com/git/git)
+[![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://github.com/vercel/vercel)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://github.com/figma)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/microsoft/vscode)
 
 </div>
 
@@ -50,8 +59,11 @@ Plus the glue that makes integrations work: **REST APIs · Webhooks**
 <div align="center">
 
 ![Prateek's GitHub stats](generated/overview.svg)
-
 ![Prateek's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Thakur-Prateek&theme=tokyonight&hide_border=true)
+
+![Prateek's profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thakur-Prateek&theme=tokyonight)
+
+![Prateek's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Thakur-Prateek&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 

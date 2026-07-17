@@ -113,7 +113,8 @@ def render(stats: dict) -> str:
         *([("repo", "Contributed to", fmt(stats["contributed"]))] if stats["contributed"] else []),
         ("people", "Followers", fmt(stats["followers"])),
     ]
-    height = 62 + len(rows) * 25 + 18
+    # at least 195 tall so it lines up with the streak card beside it
+    height = max(62 + len(rows) * 25 + 18, 195)
     row_svg = []
     for i, (icon, label, value) in enumerate(rows):
         y = 62 + i * 25
