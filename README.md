@@ -17,7 +17,6 @@
 
 - **Certifications in progress:** IBM AI Product Manager · Google PM · Salesforce Administrator
 - **Sharpening daily:** product management craft, Python, system design, SQL, AI engineering
-- **Where I want to build next:** Salesforce · HubSpot · Braze · MoEngage · Databricks · Microsoft
 
 ## 🛠 Projects
 
