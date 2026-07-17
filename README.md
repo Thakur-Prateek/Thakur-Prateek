@@ -49,7 +49,7 @@ Plus the glue that makes integrations work: **REST APIs · Webhooks**
 
 <div align="center">
 
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thakur-Prateek&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Prateek's GitHub stats](generated/overview.svg)
 
 ![Prateek's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Thakur-Prateek&theme=tokyonight&hide_border=true)
 
