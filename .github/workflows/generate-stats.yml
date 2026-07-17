@@ -22,7 +22,9 @@ jobs:
       - name: Generate SVG
         run: python3 scripts/generate_stats.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional STATS_TOKEN (a classic PAT with repo+read:user) also
+          # counts private contributions; the built-in token sees public only.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_LOGIN: Thakur-Prateek
 
       - name: Commit if changed
