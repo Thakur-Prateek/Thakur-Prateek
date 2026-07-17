@@ -1,56 +1,70 @@
-<h1 align="center">Hi, I'm Prateek Thakur 👋</h1>
-<h3 align="center">Aspiring Developer | Product Manager | Tech Enthusiast | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thakur-Prateek&label=Profile%20views&color=0e75b6&style=flat" alt="Thakur-Prateek" />
-</p>
+![Prateek Thakur — Onboarding @ WebEngage · Building with AI · Future PM](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Prateek%20Thakur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Onboarding%20%40%20WebEngage%20%C2%B7%20Building%20with%20AI%20%C2%B7%20Future%20PM&descSize=20&descAlignY=58)
+
+*By day I take enterprise brands live on WebEngage across MEA. By night I build AI tools that do parts of my job better than I can. Next stop: AI Product Management.*
+
+</div>
+
+## 🔭 What I'm working on right now
+
+- **Enterprise onboarding at WebEngage** — owning go-lives for clients across the MEA region: GTM strategy, SDK integrations, data modeling, and the client communication that holds it all together
+- **WE Audit Studio** and **WE Upload Studio** — internal AI tools I built to automate the slowest parts of onboarding
+- **OnboardIQ · SyncIQ · PRDCopilot** — an AI PM portfolio, built in public 🔨
+- The transition itself: **AI Product Manager by October 2026**
+
+## 🌱 What I'm learning
+
+- **Certifications in progress:** IBM AI Product Manager · Google PM · Salesforce Administrator
+- **Sharpening daily:** product management craft, Python, system design, SQL, AI engineering
+- **Where I want to build next:** Salesforce · HubSpot · Braze · MoEngage · Databricks · Microsoft
+
+## 🛠 Projects
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **WE Audit Studio** | Automates WebEngage account audits with AI — an internal tool that turns hours of manual review into minutes | Next.js · FastAPI · Supabase | ✅ Live (internal) |
+| **WE Upload Studio** | Wizard that maps CSV columns to WebEngage event fields and auto-generates the Python upload script | React · Python | ✅ Live (internal) |
+| [**Portfolio Site**](https://prateekthakur.vercel.app) | Personal site with a live WebEngage SDK integration — I use my own product on my own site | Vercel · WebEngage SDK | ✅ Live |
+| [**Flight Status Notification App**](https://github.com/Thakur-Prateek/Krish-E) | Full-stack app for customisable flight notification preferences | Full-stack | ✅ Shipped |
+| **OnboardIQ** · **SyncIQ** · **PRDCopilot** | AI PM portfolio projects at the intersection of onboarding, data sync, and product discovery | AI · Product | 🔨 In progress |
+
+## 💼 Experience & impact
+
+- **Customer Onboarding Manager @ WebEngage** — New Delhi, India. I run enterprise SaaS onboarding for clients across the MEA region: multi-client account management, GTM and SDK integrations, and data modeling
+- 🏆 **CEO Recognition Award** — for delivering a complex MEA enterprise onboarding
+- 🎓 **MSc Computer Science**, South Asian University · **BCA**, GGSIPU
+
+## 🧰 Tech stack
+
+<div align="center">
+
+[![Tech stack: Next.js, React, Python, FastAPI, Supabase, Postgres, Git, Vercel, Figma, VS Code](https://skillicons.dev/icons?i=nextjs,react,python,fastapi,supabase,postgres,git,vercel,figma,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+Plus the glue that makes integrations work: **REST APIs · Webhooks**
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thakur-Prateek&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Prateek's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Thakur-Prateek&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📫 Connect
+
+- 💼 LinkedIn: [linkedin.com/in/prateekthakur6397](https://www.linkedin.com/in/prateekthakur6397/)
+- ✉️ Email: [prateek.thakur6@gmail.com](mailto:prateek.thakur6@gmail.com)
+- 🌐 Portfolio: [prateekthakur.vercel.app](https://prateekthakur.vercel.app)
 
 ---
 
-### 💼 About Me:
-- 🎓 Master's in Computer Science, aspiring to become a **Product Manager** in a top tech company.
-- 🚀 Focused on delivering **user-centric** and **data-driven solutions**.
-- 🌱 Currently working on building my [portfolio website]([https://prateekthakur.vercel.app]).
-- 📊 Love to explore **market opportunities** and build **strategic roadmaps** for tech solutions.
+<div align="center">
 
-### ⚡ Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Thakur-Prateek.Thakur-Prateek)
 
----
-
-### 🚀 My Projects:
-**[Flight Status Notification](https://github.com/Thakur-Prateek/Flight-Status-Notification-System)**: A project showcasing a Full Stack Application, resposnsive for customizing Notification status of flight.
-
----
-
-
-### 🌟 Featured Skills:
-- **Product Strategy**: Developed a product vision that generated $500k in revenue.
-- **Leadership**: Spearheaded a cross-functional team that boosted customer satisfaction by 40%.
-- **User Empathy**: Conducted user research to design solutions that met user values and needs.
-
----
-
-### 📫 How to Reach Me:
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/pratekk-thakur)
-- Portfolio: [Your Portfolio](https://prateekthakur.vercel.app)
-- Email: [prateek.thakur6@gmail.com](mailto:prateek.tahkur6@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thakur-Prateek&show_icons=true&theme=tokyonight" alt="Thakur-Prateek's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-Prateek&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-<h3 align="center">Let's Connect and Build Something Great Together!</h3>
+</div>
