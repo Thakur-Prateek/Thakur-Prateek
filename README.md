@@ -69,7 +69,7 @@ Plus the glue that makes integrations work: **REST APIs · Webhooks**
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [linkedin.com/in/prateekthakur6397](https://www.linkedin.com/in/prateekthakur6397/)
+- 💼 LinkedIn: [linkedin.com/in/prateek-thakur](https://www.linkedin.com/in/prateek-thakur/)
 - ✉️ Email: [prateek.thakur6@gmail.com](mailto:prateek.thakur6@gmail.com)
 - 🌐 Portfolio: [prateekthakur.vercel.app](https://prateekthakur.vercel.app)
 
